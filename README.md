@@ -8,6 +8,9 @@
 
 > All codes written simple and clean,welcome have a look below..
 > 
+> And all task are live hosted in Amazon we services AWS 
+> 
+> ![AWS](https://img.shields.io/badge/S3-Bucket-yellowgreen)
 
 ### 1.COUNTER APP
 *In this task when plus button clicked it add up a number and when a minus button clicked it remove out a number*
