@@ -11,7 +11,7 @@
 
 ### 1.COUNTER APP
 *In this task when plus button clicked it add up a number and when a minus button clicked it remove out a number*
-- [Live]()
+- [Live](http://countepp.s3-website-us-east-1.amazonaws.com/)
 - [Source code](https://github.com/Pascal488/10Js_Tasks/tree/main/A%20counter)
 
 ***
