@@ -2,7 +2,7 @@
 
 ![GitHub watchers](https://img.shields.io/github/watchers/Pascal488/10Task_in_Javascript?logoColor=blue&style=social)
 
-## This repository is for my javascript beginner tasks, If you're new to javascript or coding in general,you  need to practice more and more to build your skill well..
+## This repository is for my javascript beginner tasks, If you're new to javascript or coding in general,this repo is for you also you  need to practice more and more to build  up well your skill ..
 
 
 
