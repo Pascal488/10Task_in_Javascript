@@ -6,9 +6,9 @@
 
 
 
-> All codes written simple and clean,welcome have a look below..
+> All codes written simple and clean
 > 
-> And all task are live hosted in Amazon we services AWS 
+> And all task are live hosted in Amazon web services AWS 
 > 
 > ![AWS](https://img.shields.io/badge/S3-Bucket-yellowgreen)
 > 
