@@ -38,7 +38,7 @@
 ***
 ### 4.FORM VALIDATION
 *In this task a button have a logic to validate some value from input fields so it allow a certain condition to occur*
-- [Live](http://guessingapp.s3-website-us-east-1.amazonaws.com/)
+- [Live](http://formvalidati.s3-website-us-east-1.amazonaws.com/)
 - [Source code](https://github.com/Pascal488/10Js_Tasks/tree/main/FormValidation) 
 
 ***
