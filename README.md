@@ -45,7 +45,7 @@
 ### 5.REACTION TESTER
 *In this task, this is a game which you need to click a shape appears on different shape and on different places in a browser window to test your reaction time
 and a time that you spent to click a shape appears will be given as a result*
-- [Live](http://guessingapp.s3-website-us-east-1.amazonaws.com/)
+- [Live](http://reactiontimer.s3-website-us-east-1.amazonaws.com/)
 - [Source code](https://github.com/Pascal488/10Js_Tasks/tree/main/ReactionTimer) 
 
 ***
